@@ -1,1 +1,2 @@
-committed text to working directory
+added to staging area
+xxx
