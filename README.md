@@ -12,6 +12,5 @@ Sample website with plenty of files for demos
 working directory example
 =======
 ## Also for Playing Github
-#yeap
-
+added  changes to the repo for automatic merges
 >>>>>>> 1730d6efd825e9f6bd3fee430bf5b43ac0a78351
